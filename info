@@ -3,4 +3,6 @@ CURSO VUE PROFESIONAL
 
 npm install -g @vue/cli
 vue create proyect
+
+npm install -g @vue/cli-init
 vue init webpack-simple proyect
